@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfEYcbqaRSpt3AVxUkXQdUjaOEIg9f6BIO+V9TxegjvMBKu1+d7POPI43jvruPDSmpYum0VDBPoQV4Czif6Oag==",
+  "success": true,
+  "projectFilePath": "E:\\Lessons\\П\\C#\\Практические\\Convertor_JXT\\Convertor_xml_json_txt\\Convertor_xml_json_txt\\Convertor_xml_json_txt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SonicXTails\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

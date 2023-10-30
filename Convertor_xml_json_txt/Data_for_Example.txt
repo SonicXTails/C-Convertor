@@ -1,0 +1,21 @@
+﻿HK G28
+ID_1 (7.62x51 mm NАТО)
+Single
+M1A
+ID_1 (7.62x51 mm NATO)
+Single
+RSASS
+ID_1 (7.62x51 mm NATO)
+Single
+SR-25
+ID_2 (7.62x51 mm NATO)
+Single
+Mk-18 .338LM
+ID_3 (.338 Lapua Magnum)
+Single
+<СВДС> / <SIDS> / <Dragunov> / <Драгунов>
+ID_4 (7.62x54R mm)
+Single
+ВСС Винторез / VSS Vintorez
+ID_5 (9x39 mm)
+Single / AUTO

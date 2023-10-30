@@ -1,0 +1,17 @@
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.AssemblyInfoInputs.cache
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.AssemblyInfo.cs
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.csproj.CoreCompileInputs.cache
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.csproj.AssemblyReference.cache
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\bin\Debug\net6.0\Convertor_xml_json_txt.exe
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\bin\Debug\net6.0\Convertor_xml_json_txt.deps.json
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\bin\Debug\net6.0\Convertor_xml_json_txt.runtimeconfig.json
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\bin\Debug\net6.0\Convertor_xml_json_txt.dll
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\bin\Debug\net6.0\Convertor_xml_json_txt.pdb
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.csproj.CopyComplete
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.dll
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\refint\Convertor_xml_json_txt.dll
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.pdb
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\Convertor_xml_json_txt.genruntimeconfig.cache
+E:\Lessons\П\C#\Практические\Convertor_JXT\Convertor_xml_json_txt\Convertor_xml_json_txt\obj\Debug\net6.0\ref\Convertor_xml_json_txt.dll

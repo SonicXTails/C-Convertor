@@ -1,0 +1,37 @@
+[
+  {
+    "model": "HK G28",
+    "caliber": "ID_1 (7.62x51 mm NАТО)",
+    "shooting_mode": "Single"
+  },
+  {
+    "model": "M1A",
+    "caliber": "ID_1 (7.62x51 mm NATO)",
+    "shooting_mode": "Single"
+  },
+  {
+    "model": "RSASS",
+    "caliber": "ID_1 (7.62x51 mm NATO)",
+    "shooting_mode": "Single"
+  },
+  {
+    "model": "SR-25",
+    "caliber": "ID_2 (7.62x51 mm NATO)",
+    "shooting_mode": "Single"
+  },
+  {
+    "model": "Mk-18 .338LM",
+    "caliber": "ID_3 (.338 Lapua Magnum)",
+    "shooting_mode": "Single"
+  },
+  {
+    "model": "<СВДС> / <SIDS> / <Dragunov> / <Драгунов>",
+    "caliber": "ID_4 (7.62x54R mm)",
+    "shooting_mode": "Single"
+  },
+  {
+    "model": "ВСС Винторез / VSS Vintorez",
+    "caliber": "ID_5 (9x39 mm)",
+    "shooting_mode": "Single / AUTO"
+  }
+]
